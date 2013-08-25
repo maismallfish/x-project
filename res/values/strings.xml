@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">login</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <drawable name="white">#ffffff</drawable>
+
+    <string name="hello">hello</string>
+    <string name="title_act_mainpanel">话题接龙</string>
+    <string name="login_head_phone">请输入手机号码</string>
+    <string name="login_authCoode">请输入验证码</string>
+    <string name="title_activity_splash">x-project</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
